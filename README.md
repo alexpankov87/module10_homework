@@ -1,4 +1,4 @@
 # Module 10 JS (Home Work)
-Just simple procedure typical task for example: 
+Just simple procedure typical task for example:-- hit  
 [GitHub Gists on this page:] (https://gist.github.com/alexpankov87)
 Examples code on Codepen.
